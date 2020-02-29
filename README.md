@@ -1,5 +1,5 @@
 # ASCIIQuarium
-## Enjoys the mysteries of the sea from the safety of your console. Note: Press 'q' to quit.
+## Enjoy the mysteries of the sea from the safety of your console. Note: Press 'q' to quit.
 
 ## Asciiquarium (Project Info)
 [Website](http://www.robobunny.com/projects/asciiquarium/html/)
@@ -13,7 +13,7 @@
 ## Docker Push
 `$ docker push -t macabees/asciiquarium:latest`
 
-Note: requires: `docker login`
+Note: requires `docker login`
 
 ## Run image
 `$ docker run -it --rm macabees/asciiquarium`
